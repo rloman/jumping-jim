@@ -43,7 +43,7 @@ public class Positie {
 	}
 	
 	public String toString() {
-		return "("+this.getXCoord()+", "+this.getYCoord()+")";
+		return "("+this.getXCoord()+","+this.getYCoord()+")";
 	}
 	
 	

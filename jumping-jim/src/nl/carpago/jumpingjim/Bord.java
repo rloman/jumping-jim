@@ -19,7 +19,7 @@ public class Bord {
 			{2,5,2,5,6,1,GOAL}
 		};
 	
-	public Set<Positie> getNeighbours(Positie vanaf) {
+	public Set<Positie> getBuurknopen(Positie vanaf) {
 		Set<Positie> result = new HashSet<Positie>();
 		
 		int x = vanaf.getXCoord();
