@@ -1,6 +1,8 @@
 package nl.carpago.jumpingjim;
 
-public class Main {
+import nl.carpago.jumpingjim.model.JumpingJim;
+
+public class Application {
 
 	public static void main(String[] args) {
 		
