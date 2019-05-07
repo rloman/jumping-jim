@@ -1,4 +1,4 @@
-package nl.carpago.jumpingjim;
+package nl.carpago.jumpingjim.model;
 
 public class Positie {
 	
